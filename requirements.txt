@@ -1,3 +1,4 @@
 -e git+https://github.com/django/django.git@aa5fd84f53f09338d01a3cfd9fa6ab08e418fe00#egg=Django
 pytz==2018.9
 sqlparse==0.2.4
+python==3.6.5
