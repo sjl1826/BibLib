@@ -25,7 +25,7 @@ SECRET_KEY = 'qm6@ln^u(g-^)@c)nc9lckgn#xf85o*jgs82!dxygbsjj-82ud'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bib-lib.herokuapp.com']
 
 
 # Application definition
