@@ -1,0 +1,1 @@
+web: gunicorn BibLib.wsgi --log-file -
